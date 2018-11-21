@@ -1,6 +1,14 @@
 import matplotlib.pyplot as plt
+from matplotlib import font_manager as fm, rcParams
 import math
 from random import randint, seed
+import os, os.path
+
+
+fname = "VarelaRound-Regular.ttf"
+fpath = os.path.join("./fonts", fname)
+prop = fm.FontProperties(fname=fpath)
+# rcParams['font.sans-serif'] = ["Varela Round"]
 
 seed()
 
@@ -17,9 +25,11 @@ for i in range(rows):
         fontsize = randint(12, 20)
         x = 1 / rows * i
         y = 1 / rows * j
+        prop.set_size(fontsize)
         ax.text(x=x, y=y, s=w,
-                fontsize=fontsize,
-                transform=ax.transAxes)
+                size=fontsize,
+                transform=ax.transAxes,
+                fontproperties=prop)
 
 ax.set_axis_off()
 fig.savefig("test.svg")
