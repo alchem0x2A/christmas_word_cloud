@@ -1,0 +1,98 @@
+An Elastic Interfacial Transistor Enabled by Superhydrophobicity
+Monolayer Graphene Coupled to a Flexible Plasmonic Nanograting for Ultrasensitive Strain Monitoring
+Exploration of Near-Infrared-Emissive Colloidal Multinary Lead Halide Perovskite Nanocrystals Using an Automated Microfluidic Platform
+Colloidal CsPbX3 (X = Cl, Br, I) Nanocrystals 2.0: Zwitterionic Capping Ligands for Improved Durability and Stability
+Spectroscopic Size and Thickness Metrics for Liquid-Exfoliated h-BN
+Conformal Deposition of Conductive Single-Crystalline Cobalt Silicide Layer on Si Wafer via a Molecular Approach
+Asymmetric electric field screening in van der Waals heterostructures
+
+From semi-batch to continuous tubular reactors: A kinetics-free approach
+Model assisted comparison of Protein A resins and multi-column chromatography for capture processes
+Solution of population balance equations by logarithmic shape preserving interpolation on finite elements
+Development of a shake tube-based scale-down model for perfusion cultures
+Effect of SiO2 Nanoparticles on the Performance of PVdF-HFP/Ionic Liquid Separator for Lithium-Ion Batteries
+PVdF-HFP and Ionic-Liquid-Based, Freestanding Thin Separator for Lithium-Ion Batteries
+Research Update: Distribution and stabilization of Pd catalysts in porous carbon-based supports by aggregation of pre-doped colloidal particles
+Core-Shell Morphology of Redispersible Powders in Polymer-Cement Waterproof Mortars
+Glycosylation Flux Analysis of Immunoglobulin G in Chinese Hamster Ovary Perfusion Cell Culture
+Continuous integrated manufacturing of therapeutic proteins
+An environmentally benign methodology to elaborating polymer nanocomposites with tunable properties using core-shell nanoparticles and cellulose nanocrystals
+Proteomic analysis of micro-scale bioreactors as scale-down model for a mAb producing CHO industrial fed-batch platform
+Strategies to combine ROP with ATRP or RAFT polymerization for the synthesis of biodegradable polymeric nanoparticles for biomedical applications
+Synthesis of Cyclic (Ethylene Furanoate) Oligomers via Cyclodepolymerization
+Hydrazone linked doxorubicin-PLA prodrug nanoparticles with high drug loading
+Bottle-grade polyethylene furanoate from ring-opening polymerisation of cyclic oligomers
+Calixarene-immobilized monolithic cryogels for preparative protein chromatography
+The Generalized Stability Model and Its Applications in Polymer Colloids
+Continuous and Integrated Expression and Purification of Recombinant Antibodies
+Modeling analysis of ultrasonic attenuation and angular scattering measurements of suspended particles
+Effect of the charge interactions on the composition behavior of acrylamide/acrylic acid copolymerization in aqueous medium
+Control of Pore Structure in Polymeric Monoliths Prepared from Colloidal Dispersions
+Preparation of perfusive chromatographic materials via shear-induced reactive gelation
+Experimental and CFD physical characterization of animal cell bioreactors: From micro- to production scale
+Reinforced and superinsulating silica aerogel through in situ cross-linking with silane terminated prepolymers
+The Effect of Residence Time Distribution on the Slurry-Phase Catalytic Ethylene Polymerization: An Experimental and Computational Study
+Reaction kinetics and simulations of ring-opening polymerization for the synthesis of polybutylene terephthalate
+
+Soy protein isolate/bioactive glass composite membranes: Processing and properties
+Short-term storage stability of NaOCl solutions when combined with Dual Rinse HEDP
+Thermoresponsive Microspheres as Smart Pore Plugs: Self-Venting Clothing Membranes for Smart Outdoor Textiles
+Modification of silicone elastomers with Bioglass 45S5® increases in ovo tissue biointegration
+Dentine decalcification and smear layer removal by different ethylenediaminetetraacetic acid and 1-hydroxyethane-1,1-diphosphonic acid species
+Hydrogen as a Bio-orthogonal Trigger for Spatiotemporally Controlled Caged Prodrug Activation
+
+
+
+An Optofluidic System with Integrated Microlens Arrays for Parallel Imaging Flow Cytometry
+Acoustic Compressibility of Caenorhabditis elegans
+Reinforcement Learning for Dynamic Microfluidic Control
+A sample-in-digital-answer-out system for rapid detection and quantitation of infectious pathogens in bodily fluids.
+High-throughput microfluidic imaging flow cytometry.
+Fluoropolymer Coated PDMS Microfluidic Devices for Application in Organic Synthesis.
+Synthesis of Biomaterials Utilizing Microfluidic Technology
+ Exploration of Near-Infrared-Emissive Colloidal Multinary Lead Halide Perovskite Nanocrystals Using an Automated Microfluidic Platform.
+ Pick a Color MARIA: Adaptive Sampling Enables the Rapid Identification of Complex Perovskite Nanocrystal Compositions with Defined Emission Characteristics.
+ Long-term C. elegans immobilization enables high resolution developmental studies in vivo.
+ Self-assembled materials and supramolecular chemistry within microfluidic environments: From common thermodynamic states to non-equilibrium structures.
+ Integration of inverse Supercritical Fluid Extraction and miniaturized Asymmetrical Flow Field-Flow Fractionation for the rapid analysis of nanoparticles in sunscreens.
+ Hydrodynamics in cell studies.
+ Unveiling the Shape Evolution and Halide-Ion-Segregation in Blue-Emitting Formamidinium Lead Halide Perovskite Nanocrystals Using an Automated Microfluidic Platform.
+ Synthesis of graphene-based photocatalysts for water splitting by laser-induced doping with ionic liquids.
+ Microfluidic Formation of Proteinosomes.
+ Biocompatibility characteristics of the metal organic framework ZIF-8 for therapeutical applications.
+
+Increasing the activity of copper exchanged mordenite in the direct isothermal conversion of methane to methanol by Pt and Pd doping
+Resonant Ptychographic Tomography Facilitates Three-Dimensional Quantitative Colocalization of Catalyst Components and Chemical Elements
+Visualization of Structural Changes During Deactivation and Regeneration of FAU Zeolite for Catalytic Fast Pyrolysis of Lignin Using NMR and Electron Microscopy Techniques
+Catalytic oxidation of aqueous bioethanol: an efficient upgrade from batch to flow
+Structure of the CoI intermediate of a cobalt pentapyridyl catalyst for hydrogen evolution revealed by time-resolved X-ray spectroscopy
+Properties Modification of Nanosized Hollow Zeolite Crystals by Desilication
+Effect of Brønsted acid sites on the direct conversion of methane into methanol over copper-exchanged mordenite
+On the Mechanism Underlying the Direct Conversion of Methane to Methanol by Copper Hosted in Zeolites; Braiding Cu K-Edge XANES and Reactivity Studies
+Numerical Modeling of Hydroperoxyl-Mediated Oxidative Dehydrogenation of Formic Acid under SCR-Relevant Conditions
+Highly Efficient, Easily Recoverable, and Recyclable Re–SiO2–Fe3O4 Catalyst for the Fragmentation of Lignin
+Time-resolved operando studies of carbon supported Pd nanoparticles under hydrogenation reactions by X-ray diffraction and absorption
+The Effect of the Active-Site Structure on the Activity of Copper Mordenite in the Aerobic and Anaerobic Conversion of Methane into Methanol
+Revisiting copper reduction in zeolites: the impact of autoreduction and sample synthesis procedure
+Direct Stepwise Oxidation of Methane to Methanol over Cu–SiO2
+Pump–probe XAS investigation of the triplet state of an Ir photosensitizer with chromenopyridinone ligands
+Stable complete methane oxidation over palladium based zeolite catalysts
+Palladium Carbide and Hydride Formation in the Bulk and at the Surface of Palladium Nanoparticles
+Quantitative region-of-interest tomography using variable field of view
+Structural Changes in Deactivated Fluid Catalytic Cracking Catalysts Determined by Electron Microscopy
+Polarization-sensitive pulse reconstruction by momentum-resolved photoelectron streaking
+Ambient Pressure Photoelectron Spectroscopy: Opportunities in Catalysis from Solids to Liquids and Introducing Time Resolution
+Characterization at the Level of Individual Crystals: Single-Crystal MFI Type Zeolite Grains
+Oxidative Biphasic Depolymerization (BPD) of Kraft Lignin at Low pH
+Rapid structure determination of microcrystalline molecular compounds using electron diffraction
+Copper-exchanged omega (MAZ) zeolite: copper-concentration dependent active sites and its unprecedented methane to methanol conversion
+Conversion of Methane to Methanol on Copper Mordenite: Redox Mechanism of Isothermal and High-Temperature-Activation Procedures
+Spirobifluorene-based porous organic polymers as efficient porous support for Pd and Pt for the selective hydrogenations
+
+Multifunctional Protein Materials and Microreactors using Low Complexity Domains as Molecular Adhesives
+Conserved S/T Residues of the Human Chaperone DNAJB6 Are Required for Effective Inhibition of Aβ42 Amyloid Fibril Formation
+A hydrophobic low-complexity region regulates aggregation of the yeast pyruvate kinase Cdc19 into amyloid-like aggregatesin vitro
+Cooperative Assembly of Hsp70 Subdomain Clusters
+Microfluidic Approaches for the Characterization of Therapeutic Proteins
+Microfluidic Diffusion Analysis of the Size Distribution and Microrheological Properties of Antibody Solutions at High Concentrations
+Engineering Aspects of Protein Interactions and Self-assembly
