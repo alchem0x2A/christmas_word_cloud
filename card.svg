@@ -49,110 +49,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter7542"
-       x="-0.14052112"
-       width="1.2810422"
-       y="-0.097611036"
-       height="1.1952221">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.3430262"
-         id="feGaussianBlur7544" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7626"
-       x="-0.24005692"
-       width="1.4801138"
-       y="-0.16675219"
-       height="1.3335044">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="10.836003"
-         id="feGaussianBlur7628" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7682"
-       x="-0.41424456"
-       width="1.8284891"
-       y="-0.2877492"
-       height="1.5754984">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="18.698713"
-         id="feGaussianBlur7684" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7802"
-       x="-0.62502624"
-       width="2.2500525"
-       y="-0.43416575"
-       height="1.8683315">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="28.213252"
-         id="feGaussianBlur7804" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7918"
-       x="-0.080506893"
-       width="1.1610138"
-       y="-0.055922989"
-       height="1.111846">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.6340254"
-         id="feGaussianBlur7920" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter8379"
-       x="-0.11065668"
-       width="1.2213134"
-       y="-0.088587742"
-       height="1.1771755">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.0783062"
-         id="feGaussianBlur8381" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter8691"
-       x="-0.092395527"
-       width="1.1847911"
-       y="-0.16633449"
-       height="1.332669">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.1731448"
-         id="feGaussianBlur8693" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter9393"
-       x="-0.70324435"
-       width="2.4064887"
-       y="-0.70555946"
-       height="2.4111189">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.7088372"
-         id="feGaussianBlur9395" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter9513"
        x="-0.020366531"
        width="1.0407331"
@@ -181,11 +77,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33780345"
-     inkscape:cx="423.51149"
-     inkscape:cy="533.51692"
+     inkscape:zoom="0.47772624"
+     inkscape:cx="367.34029"
+     inkscape:cy="617.70261"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="685"
@@ -226,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -235,7 +131,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0,1.1686476)">
+     transform="translate(0,1.1686476)"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#c54040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1085"
@@ -265,8 +162,9 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="outline2"
-     style="display:inline;opacity:0.13310583;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0,1.1686476)">
+     style="display:none;opacity:0.13310583;stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(0,1.1686476)"
+     sodipodi:insensitive="true">
     <g
        id="g1230"
        style="opacity:0.12999998;fill:#00510a;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">
@@ -508,635 +406,134 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="words"
-     style="opacity:0.98000004;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0,1.1686476)"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.98000004;stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(0,1.1686476)">
     <g
-       id="g8291"
-       style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter8379)"
-       transform="translate(0.52916663)">
+       id="g8407"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <g
-         id="g8061"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.33546043,-0.07713714,0.07713714,0.33546043,42.029408,-8.4394791)">
+         transform="matrix(0.17772482,0.0473093,-0.0473093,0.17772482,110.01993,140.37899)"
+         style="fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_8">
         <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="39.439999"
+           id="text1429"
            y="517.20001"
-           id="text8059">MICROFLUIDIC</text>
+           x="95.440002"
+           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">MORDENITE</text>
       </g>
       <g
-         id="g8065"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.3515413,0.11372703,-0.11372703,0.3515413,180.37687,-4.3958083)">
+         transform="matrix(0.3547024,0.10344726,-0.10344726,0.3547024,117.49995,51.139423)"
+         style="fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_9">
         <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="39.439999"
+           id="text1432"
            y="461.20001"
-           id="text8063">METHANE</text>
+           x="95.440002"
+           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">HALIDE</text>
       </g>
       <g
-         id="g8069"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.35087249,-0.11577403,0.11577403,0.35087249,-25.697886,54.418971)">
+         transform="matrix(0.29587681,-0.09455136,0.09455136,0.29587681,10.384456,174.47829)"
+         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_12">
         <text
-           style="font-style:normal;font-weight:500;font-size:17px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="39.439999"
-           y="405.20001"
-           id="text8067">COPPER</text>
-      </g>
-      <g
-         id="g8073"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.26737807,-0.15078022,0.15981465,0.25226302,-13.521393,56.852098)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="39.439999"
-           y="349.20001"
-           id="text8071">NANOPARTICLE</text>
-      </g>
-      <g
-         id="g8077"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.29091672,0.14422211,-0.14422211,0.29091672,142.52971,-25.815662)"
-         inkscape:transform-center-x="-55.564326"
-         inkscape:transform-center-y="42.820221">
-        <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="39.439999"
+           id="text1441"
            y="293.20001"
-           id="text8075">ZEOLITE</text>
-      </g>
-      <g
-         id="g8081"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.38312637,0.2148024,-0.2148024,0.38312637,165.08333,-7.4136963)"
-         inkscape:transform-center-x="-74.062751"
-         inkscape:transform-center-y="-39.764912">
-        <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="39.439999"
-           y="237.2"
-           id="text8079">PROTEIN</text>
-      </g>
-      <g
-         id="g8085"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.20207982,0.06045972,-0.06045972,0.20207982,173.77204,92.862245)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="-301.2363"
-           y="561.12469"
-           id="text8083">NANOCRYSTAL</text>
-      </g>
-      <g
-         id="g8089"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.36870088,-0.02397483,0.02397483,0.36870088,39.440924,-35.408934)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
            x="95.440002"
-           y="405.20001"
-           id="text8087">MODELING</text>
+           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">POROUS</text>
       </g>
       <g
-         id="g8093"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.12244203,-0.3210077,0.26708687,0.13175598,20.695378,180.8313)">
+         transform="matrix(0.28020673,-0.06947555,0.06947555,0.28020673,-2.9942549,123.35289)"
+         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_16">
         <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="95.440002"
-           y="349.20001"
-           id="text8091">CATALYST</text>
-      </g>
-      <g
-         id="g8097"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.40921609,-0.09503684,0.09503684,0.40921609,22.616924,-32.676528)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="95.440002"
-           y="237.2"
-           id="text8095">POLYMER</text>
-      </g>
-      <g
-         id="g8101"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.30827968,-0.20366336,0.20366336,0.30827968,15.502891,74.006355)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="95.440002"
-           y="181.2"
-           id="text8099">PALLADIUM</text>
-      </g>
-      <g
-         id="g8105"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.30609249,0.04567928,-0.04567928,0.30609249,76.741256,9.6901751)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+           id="text1453"
+           y="461.20001"
            x="151.44"
+           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">TOMOGRAPHY</text>
+      </g>
+      <g
+         transform="matrix(0.12717492,0.32373053,-0.32373053,0.12717492,267.07895,87.41323)"
+         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_22">
+        <text
+           id="text1471"
            y="517.20001"
-           id="text8103">AUTOMATION</text>
-      </g>
-      <g
-         id="g8109"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.31062677,-0.15771027,0.15771027,0.31062677,36.138359,117.43924)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="151.44"
-           y="405.20001"
-           id="text8107">SPECTROSCOPY</text>
-      </g>
-      <g
-         id="g8113"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.3396304,0.36972396,-0.37748001,0.33265204,186.16995,-137.74399)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="151.44"
-           y="349.20001"
-           id="text8111">PRODRUG</text>
-      </g>
-      <g
-         id="g8117"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.24510661,-0.16110392,0.16110392,0.24510661,66.195608,143.76925)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="151.44"
-           y="293.20001"
-           id="text8115">OLIGOMER</text>
-      </g>
-      <g
-         id="g8121"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.2327282,-0.23240468,0.23240468,0.2327282,41.401908,106.20888)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="151.44"
-           y="237.2"
-           id="text8119">INTERFACE</text>
-      </g>
-      <g
-         id="g8125"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.30943233,0.07242189,-0.07242189,0.30943233,83.00314,51.546005)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
            x="207.44"
-           y="461.20001"
-           id="text8123">GRAPHENE</text>
+           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">KINETICS</text>
       </g>
       <g
-         id="g8129"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.36904674,-0.01787808,0.01787808,0.36904674,-11.857432,39.121345)">
+         inkscape:transform-center-y="-22.048127"
+         inkscape:transform-center-x="-53.577458"
+         transform="matrix(0.40964844,-0.23198979,0.23957978,0.4230509,-147.23291,74.176435)"
+         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_29">
         <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="207.44"
-           y="405.20001"
-           id="text8127">CHROMATOGRAPH</text>
-      </g>
-      <g
-         id="g8133"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.21022022,-0.08476069,0.08476069,0.21022022,-18.579322,56.396541)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="207.44"
-           y="349.20001"
-           id="text8131">TRANSISTOR</text>
-      </g>
-      <g
-         id="g8137"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.28644421,0.11918503,-0.11918503,0.28644421,16.412352,85.906204)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="207.44"
-           y="293.20001"
-           id="text8135">REACTOR</text>
-      </g>
-      <g
-         id="g8141"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.41827764,0.10961006,-0.10961006,0.41827764,37.491354,-65.10801)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="207.44"
-           y="237.2"
-           id="text8139">PURIFICATION</text>
-      </g>
-      <g
-         id="g8145"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.2844892,-0.04907701,0.04907701,0.2844892,16.635469,25.64005)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="207.44"
-           y="181.2"
-           id="text8143">DISPERSION</text>
-      </g>
-      <g
-         id="g8149"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.14749226,-0.11454318,0.11454318,0.14749226,43.320688,185.9697)"
-         inkscape:transform-center-x="-0.65277949"
-         inkscape:transform-center-y="0.82610661">
-        <text
-           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+           id="text1492"
+           y="517.20001"
            x="263.44"
-           y="461.20001"
-           id="text8147">MEMBRANE</text>
+           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">2D</text>
       </g>
       <g
-         id="g8153"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.22119846,-0.09840944,0.09840944,0.22119846,39.41917,89.790881)">
+         transform="matrix(0.36947953,0,0,0.36947953,13.998915,85.669155)"
+         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_31">
         <text
-           style="font-style:normal;font-weight:500;font-size:15px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="206.92227"
-           y="370.12692"
-           id="text8151">ELASTOMER</text>
-      </g>
-      <g
-         id="g8157"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.16799366,0.10070366,-0.10070366,0.16799366,146.21969,116.5718)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+           id="text1498"
+           y="405.20001"
            x="263.44"
-           y="237.2"
-           id="text8155">C.ELEGANS</text>
+           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">HEDP</text>
       </g>
       <g
-         id="g8161"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.33938516,0.14605766,-0.14605766,0.33938516,8.0939922,10.671461)">
+         transform="matrix(0.11303109,-0.35176569,0.35176569,0.11303109,-74.685099,291.22765)"
+         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_32">
         <text
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="319.44"
-           y="405.20001"
-           id="text8159">METHANE</text>
-      </g>
-      <g
-         id="g8165"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.22245368,0.16249959,-0.16249959,0.22245368,58.056859,15.87085)"
-         inkscape:transform-center-x="-111.0123"
-         inkscape:transform-center-y="-22.630601">
-        <text
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="319.44"
+           id="text1501"
            y="349.20001"
-           id="text8163">PALLADIUM</text>
+           x="263.44"
+           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">TEXTILE</text>
       </g>
       <g
-         id="g8169"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.27194691,-0.03302407,0.03302407,0.27194691,-32.025548,66.738779)">
+         transform="matrix(0.36947953,0,0,0.36947953,-33.565967,58.986416)"
+         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_36">
         <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="319.44"
-           y="293.20001"
-           id="text8167">COPPER</text>
-      </g>
-      <g
-         id="g8173"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.37325956,-0.01578914,0.01578914,0.37325956,-7.9386043,19.728243)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="319.44"
-           y="237.2"
-           id="text8171">FIBRIL</text>
-      </g>
-      <g
-         id="g8177"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.3201023,0.18452545,-0.18452545,0.3201023,-28.263399,28.473495)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="319.44"
-           y="181.2"
-           id="text8175">AGGREGATION</text>
-      </g>
-      <g
-         id="g8181"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.32275439,-0.07087576,0.07087576,0.32275439,-60.081875,-4.9567865)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="375.44"
-           y="461.20001"
-           id="text8179">HETEROGENEOUS</text>
-      </g>
-      <g
-         id="g8185"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.36819725,-0.03075567,0.03075567,0.36819725,-102.46449,35.271983)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="375.44"
-           y="405.20001"
-           id="text8183">PALLADIUM</text>
-      </g>
-      <g
-         id="g8189"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.17742447,0.0678351,-0.0678351,0.17742447,48.627748,40.281301)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="375.44"
-           y="349.20001"
-           id="text8187">OXYHALOGENATION</text>
-      </g>
-      <g
-         id="g8193"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.22864998,-0.01804957,0.01804957,0.22864998,11.735512,59.058149)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="375.44"
-           y="293.20001"
-           id="text8191">NANOSTRUCTURE</text>
-      </g>
-      <g
-         id="g8197"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.14390299,-0.14392402,0.14392402,0.14390299,-0.71697833,183.9702)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="375.44"
-           y="237.2"
-           id="text8195">LANTHANUM</text>
-      </g>
-      <g
-         id="g8201"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.31372047,0.19517835,-0.19517835,0.31372047,46.323472,-118.73834)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="431.44"
+           id="text1513"
            y="517.20001"
-           id="text8199">SEPARATION</text>
+           x="319.44"
+           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">OXIDATION</text>
       </g>
       <g
-         id="g8205"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.32883714,0.04774508,-0.04774508,0.32883714,-62.874436,-31.675334)">
+         transform="matrix(0.36947953,0,0,0.36947953,154.37326,7.9411773)"
+         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_43">
         <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="431.44"
-           y="461.20001"
-           id="text8203">FUNCTIONAL</text>
+           id="text1534"
+           y="649.16235"
+           x="9.959733"
+           style="font-style:normal;font-weight:500;font-size:15.20129204px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-width:0.80006802;stroke-linecap:butt;stroke-linejoin:round"
+           transform="rotate(14.407881)">HYDROGENATION</text>
       </g>
       <g
-         id="g8209"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.37679609,0.07787688,-0.07787688,0.37679609,21.290478,32.253423)">
+         transform="matrix(0.59923848,0.07822961,-0.07822961,0.59923848,-124.65656,75.366013)"
+         style="fill:#c87137;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_49">
         <text
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           x="431.44"
-           y="349.20001"
-           id="text8207">SAFETY</text>
+           id="text1552"
+           y="181.2"
+           x="375.44"
+           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#c87137;stroke-linecap:butt;stroke-linejoin:round">MECHANISM</text>
       </g>
       <g
-         id="g8213"
-         style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.17668731,0.05337315,-0.05337315,0.17668731,-6.4058267,38.754972)">
+         transform="matrix(0.24300584,0.14466628,-0.14466628,0.24300584,38.911004,55.691097)"
+         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
+         id="text_52">
         <text
-           style="font-style:normal;font-weight:500;font-size:17px;font-family:'Varela Round';text-anchor:start;fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+           id="text1561"
+           y="405.20001"
            x="431.44"
-           y="293.20001"
-           id="text8211">ENVIRONMENT</text>
+           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">BIOCHEMICAL</text>
       </g>
-      <text
-         transform="matrix(0.98642696,0.12885961,-0.10151115,1.0004991,0,0)"
-         id="text8217"
-         y="183.42516"
-         x="100.24184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.18272842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="183.42516"
-           x="100.24184"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.18272842px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8215"
-           sodipodi:role="line">SELF-ASSEMBLY</tspan></text>
-      <text
-         transform="rotate(-9.1454507)"
-         id="text8221"
-         y="199.17787"
-         x="113.12821"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835855px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.35489741px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="199.17787"
-           x="113.12821"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835855px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.35489741px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8219"
-           sodipodi:role="line">SINGLE-ATOM</tspan></text>
-      <text
-         transform="rotate(46.282925)"
-         id="text8225"
-         y="32.973183"
-         x="224.43456"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835162px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.24677198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="32.973183"
-           x="224.43456"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835353px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.24677198px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8223"
-           sodipodi:role="line">SYNTHESIS</tspan></text>
-      <text
-         transform="rotate(43.452065)"
-         id="text8229"
-         y="-9.399292"
-         x="183.3399"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.27710965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="-9.399292"
-           x="183.3399"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.27710965px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8227"
-           sodipodi:role="line">AEROGEL</tspan></text>
-      <text
-         transform="rotate(-2.114233)"
-         id="text8233"
-         y="91.74604"
-         x="120.81518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790541px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22424409px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="91.74604"
-           x="120.81518"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790541px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.22424409px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8231"
-           sodipodi:role="line">ANTIBODY</tspan></text>
-      <text
-         transform="rotate(42.849277)"
-         id="text8237"
-         y="-41.395531"
-         x="102.9178"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309389px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22331837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="-41.395531"
-           x="102.9178"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309389px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.22331837px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8235"
-           sodipodi:role="line">BIODEGRABLE</tspan></text>
-      <text
-         id="text8241"
-         y="71.38736"
-         x="74.956879"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.38145691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="71.38736"
-           x="74.956879"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.38145691px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8239"
-           sodipodi:role="line">PEROVSKITE</tspan></text>
-      <text
-         transform="rotate(-24.872904)"
-         id="text8245"
-         y="137.49774"
-         x="41.645515"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96767282px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.31047955px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="137.49774"
-           x="41.645515"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62356377px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.31047955px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8243"
-           sodipodi:role="line">COLLOIDAL</tspan></text>
-      <text
-         transform="rotate(7.3021962)"
-         id="text8249"
-         y="90.906342"
-         x="116.45123"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10993624px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.19437101px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="90.906342"
-           x="116.45123"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.19437101px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8247"
-           sodipodi:role="line">CLUSTER</tspan></text>
-      <text
-         id="text8253"
-         y="193.85187"
-         x="144.18956"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6031518px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22519699px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="193.85187"
-           x="144.18956"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.22519699px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8251"
-           sodipodi:role="line">MICROSPHERE</tspan></text>
-      <text
-         id="text8257"
-         y="214.19199"
-         x="34.836483"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65937996px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.35371125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         transform="rotate(-4.919973)"><tspan
-           y="214.19199"
-           x="34.836483"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.35371125px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8255"
-           sodipodi:role="line">HETEROSTRUCTURE</tspan></text>
-      <text
-         id="text8261"
-         y="102.18244"
-         x="82.512535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84340143px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.30271259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="102.18244"
-           x="82.512535"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.30271259px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8259"
-           sodipodi:role="line">IR</tspan></text>
-      <text
-         transform="rotate(20.162691)"
-         id="text8265"
-         y="60.471508"
-         x="99.808807"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78305292px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.42394081px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="60.471508"
-           x="99.808807"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.42394081px;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan8263"
-           sodipodi:role="line">NANO</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3631773px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.27269858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="95.207817"
-         y="140.60112"
-         id="text8269"
-         transform="rotate(10.522013)"><tspan
-           sodipodi:role="line"
-           id="tspan8267"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3631773px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.27269858px;stroke-linecap:butt;stroke-linejoin:round"
-           x="95.207817"
-           y="140.60112">CARBON</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32628441px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.20789278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="174.83461"
-         y="138.25327"
-         id="text8273"
-         transform="rotate(14.998845)"><tspan
-           sodipodi:role="line"
-           id="tspan8271"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.20789278px;stroke-linecap:butt;stroke-linejoin:round"
-           x="174.83461"
-           y="138.25327">CONVERSION</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.51370418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="83.013023"
-         y="64.388832"
-         id="text8277"
-         transform="rotate(10.224373)"><tspan
-           sodipodi:role="line"
-           id="tspan8275"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.51370418px;stroke-linecap:butt;stroke-linejoin:round"
-           x="83.013023"
-           y="64.388832">ACID</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.33212289px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="135.92299"
-         y="172.03123"
-         id="text8281"><tspan
-           sodipodi:role="line"
-           id="tspan8279"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.33212289px;stroke-linecap:butt;stroke-linejoin:round"
-           x="135.92299"
-           y="172.03123">FLOW</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6164484px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.28852803px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="110.22113"
-         y="180.53264"
-         id="text8285"
-         transform="rotate(3.8395666)"><tspan
-           sodipodi:role="line"
-           id="tspan8283"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.28852803px;stroke-linecap:butt;stroke-linejoin:round"
-           x="110.22113"
-           y="180.53264">ORGANIC</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.28292114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="60.307159"
-         y="109.89644"
-         id="text8289"
-         transform="rotate(-21.163286)"><tspan
-           sodipodi:role="line"
-           id="tspan8287"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.28292114px;stroke-linecap:butt;stroke-linejoin:round"
-           x="60.307159"
-           y="109.89644">LIGNIN</tspan></text>
     </g>
     <g
        id="g8057"
@@ -1768,8 +1165,7 @@
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="words 1"
-       style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
-       sodipodi:insensitive="true" />
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round" />
     <path
        id="path1405"
        style="fill:none;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:round"
@@ -1784,260 +1180,6 @@
          x="151.44"
          y="181.2"
          id="text1468">DIODE</text>
-    </g>
-    <g
-       id="g8457"
-       style="opacity:0.25600011;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8691)">
-      <g
-         id="g8411"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:10.87466049;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.17772482,0.0473093,-0.0473093,0.17772482,110.01993,140.37899)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:10.87466049;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="95.440002"
-           y="517.20001"
-           id="text8409">MORDENITE</text>
-      </g>
-      <g
-         id="g8415"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.3547024,0.10344726,-0.10344726,0.3547024,117.49995,51.139423)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="95.440002"
-           y="461.20001"
-           id="text8413">HALIDE</text>
-      </g>
-      <g
-         id="g8419"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.43879366;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.29587681,-0.09455136,0.09455136,0.29587681,10.384456,174.47829)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.43879366;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="95.440002"
-           y="293.20001"
-           id="text8417">POROUS</text>
-      </g>
-      <g
-         id="g8423"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.92781544;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.28020673,-0.06947555,0.06947555,0.28020673,-2.9942549,123.35289)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.92781544;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="151.44"
-           y="461.20001"
-           id="text8421">TOMOGRAPHY</text>
-      </g>
-      <g
-         id="g8427"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.75019169;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.12717492,0.32373053,-0.32373053,0.12717492,267.07895,87.41323)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.75019169;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="207.44"
-           y="517.20001"
-           id="text8425">KINETICS</text>
-      </g>
-      <g
-         id="g8431"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:4.18045902;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.40964844,-0.23198979,0.23957978,0.4230509,-147.23291,74.176435)"
-         inkscape:transform-center-x="-53.577458"
-         inkscape:transform-center-y="-22.048127">
-        <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:4.18045902;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="263.44"
-           y="517.20001"
-           id="text8429">2D</text>
-      </g>
-      <g
-         id="g8435"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.36947953,0,0,0.36947953,13.998915,85.669155)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="263.44"
-           y="405.20001"
-           id="text8433">HEDP</text>
-      </g>
-      <g
-         id="g8439"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.11303109,-0.35176569,0.35176569,0.11303109,-74.685099,291.22765)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="263.44"
-           y="349.20001"
-           id="text8437">TEXTILE</text>
-      </g>
-      <g
-         id="g8443"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.36947953,0,0,0.36947953,-33.565967,58.986416)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="319.44"
-           y="517.20001"
-           id="text8441">OXIDATION</text>
-      </g>
-      <g
-         id="g8447"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.36947953,0,0,0.36947953,154.37326,7.9411773)">
-        <text
-           transform="rotate(14.407881)"
-           style="font-style:normal;font-weight:500;font-size:15.20129204px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="9.959733"
-           y="649.16235"
-           id="text8445">HYDROGENATION</text>
-      </g>
-      <g
-         id="g8451"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:3.30948687;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.59923848,0.07822961,-0.07822961,0.59923848,-124.65656,75.366013)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:3.30948687;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="375.44"
-           y="181.2"
-           id="text8449">MECHANISM</text>
-      </g>
-      <g
-         id="g8455"
-         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:7.07194424;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.24300584,0.14466628,-0.14466628,0.24300584,38.911004,55.691097)">
-        <text
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:7.07194424;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="431.44"
-           y="405.20001"
-           id="text8453">BIOCHEMICAL</text>
-      </g>
-    </g>
-    <g
-       id="g8407"
-       style="stroke-linecap:butt;stroke-linejoin:round">
-      <g
-         transform="matrix(0.17772482,0.0473093,-0.0473093,0.17772482,110.01993,140.37899)"
-         style="fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_8">
-        <text
-           id="text1429"
-           y="517.20001"
-           x="95.440002"
-           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">MORDENITE</text>
-      </g>
-      <g
-         transform="matrix(0.3547024,0.10344726,-0.10344726,0.3547024,117.49995,51.139423)"
-         style="fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_9">
-        <text
-           id="text1432"
-           y="461.20001"
-           x="95.440002"
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">HALIDE</text>
-      </g>
-      <g
-         transform="matrix(0.29587681,-0.09455136,0.09455136,0.29587681,10.384456,174.47829)"
-         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_12">
-        <text
-           id="text1441"
-           y="293.20001"
-           x="95.440002"
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">POROUS</text>
-      </g>
-      <g
-         transform="matrix(0.28020673,-0.06947555,0.06947555,0.28020673,-2.9942549,123.35289)"
-         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_16">
-        <text
-           id="text1453"
-           y="461.20001"
-           x="151.44"
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">TOMOGRAPHY</text>
-      </g>
-      <g
-         transform="matrix(0.12717492,0.32373053,-0.32373053,0.12717492,267.07895,87.41323)"
-         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_22">
-        <text
-           id="text1471"
-           y="517.20001"
-           x="207.44"
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">KINETICS</text>
-      </g>
-      <g
-         inkscape:transform-center-y="-22.048127"
-         inkscape:transform-center-x="-53.577458"
-         transform="matrix(0.40964844,-0.23198979,0.23957978,0.4230509,-147.23291,74.176435)"
-         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_29">
-        <text
-           id="text1492"
-           y="517.20001"
-           x="263.44"
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">2D</text>
-      </g>
-      <g
-         transform="matrix(0.36947953,0,0,0.36947953,13.998915,85.669155)"
-         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_31">
-        <text
-           id="text1498"
-           y="405.20001"
-           x="263.44"
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">HEDP</text>
-      </g>
-      <g
-         transform="matrix(0.11303109,-0.35176569,0.35176569,0.11303109,-74.685099,291.22765)"
-         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_32">
-        <text
-           id="text1501"
-           y="349.20001"
-           x="263.44"
-           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">TEXTILE</text>
-      </g>
-      <g
-         transform="matrix(0.36947953,0,0,0.36947953,-33.565967,58.986416)"
-         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_36">
-        <text
-           id="text1513"
-           y="517.20001"
-           x="319.44"
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round">OXIDATION</text>
-      </g>
-      <g
-         transform="matrix(0.36947953,0,0,0.36947953,154.37326,7.9411773)"
-         style="fill:#ff9955;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_43">
-        <text
-           id="text1534"
-           y="649.16235"
-           x="9.959733"
-           style="font-style:normal;font-weight:500;font-size:15.20129204px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-width:0.80006802;stroke-linecap:butt;stroke-linejoin:round"
-           transform="rotate(14.407881)">HYDROGENATION</text>
-      </g>
-      <g
-         transform="matrix(0.59923848,0.07822961,-0.07822961,0.59923848,-124.65656,75.366013)"
-         style="fill:#c87137;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_49">
-        <text
-           id="text1552"
-           y="181.2"
-           x="375.44"
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#c87137;stroke-linecap:butt;stroke-linejoin:round">MECHANISM</text>
-      </g>
-      <g
-         transform="matrix(0.24300584,0.14466628,-0.14466628,0.24300584,38.911004,55.691097)"
-         style="fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round"
-         id="text_52">
-        <text
-           id="text1561"
-           y="405.20001"
-           x="431.44"
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#e9c6af;stroke-linecap:butt;stroke-linejoin:round">BIOCHEMICAL</text>
-      </g>
     </g>
     <text
        id="text2280"
@@ -2067,411 +1209,25 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="words_float"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter9754)"
-     sodipodi:insensitive="true">
-    <g
-       style="fill:#24e9ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter7802)"
-       id="g7728">
-      <text
-         transform="matrix(0.45436994,-0.91243955,0.91243955,0.45436994,23.044369,-0.36176572)"
-         id="text7690"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         x="18.6064"
-         y="49.967464"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7688"
-           xlink:href="#path2544"><tspan
-   id="tspan7686"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round">INSTITUTE</tspan></textPath></text>
-      <text
-         transform="matrix(1.0346178,-0.16277184,0.16277184,1.0346178,268.07067,-246.41996)"
-         id="text7696"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7694"
-           xlink:href="#path2513"><tspan
-   id="tspan7692"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">CHEMICAL</tspan></textPath></text>
-      <text
-         transform="matrix(1.2524773,-0.19372401,0.19372401,1.2524773,149.05899,-130.45447)"
-         id="text7702"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7700"
-           xlink:href="#path2519"><tspan
-   id="tspan7698"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:round">BIOENGINEERING</tspan></textPath></text>
-      <text
-         transform="rotate(-166.11084,187.72124,157.06514)"
-         id="text7708"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7706"
-           xlink:href="#path3704"><tspan
-   id="tspan7704"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:round">MERRY</tspan></textPath></text>
-      <text
-         y="56.098686"
-         x="-2.3399193"
-         transform="matrix(0.78418358,-0.63120125,0.58352952,0.80551984,73.993115,49.137446)"
-         id="text7714"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7712"
-           xlink:href="#path2529"><tspan
-   id="tspan7710"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round">CHRISTMAS</tspan></textPath></text>
-      <text
-         transform="rotate(-29.330631,51.836224,-12.770749)"
-         y="70.995186"
-         x="101.96365"
-         id="text7720"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7718"
-           xlink:href="#path2539"><tspan
-   id="tspan7716"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round">HAPPY</tspan></textPath></text>
-      <text
-         transform="rotate(-5.1600187,347.85717,1457.2011)"
-         id="text7726"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke:none;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#24e9ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7724"
-           xlink:href="#path3710"><tspan
-   id="tspan7722"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24e9ff;fill-opacity:1;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:round">NEW YEAR</tspan></textPath></text>
-    </g>
-    <g
-       style="fill:#65fc7d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter7682)"
-       id="g7672">
-      <text
-         transform="matrix(0.45436994,-0.91243955,0.91243955,0.45436994,23.044369,-0.36176572)"
-         id="text7634"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         x="18.6064"
-         y="49.967464"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7632"
-           xlink:href="#path2544"><tspan
-   id="tspan7630"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round">INSTITUTE</tspan></textPath></text>
-      <text
-         transform="matrix(1.0346178,-0.16277184,0.16277184,1.0346178,268.07067,-246.41996)"
-         id="text7640"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7638"
-           xlink:href="#path2513"><tspan
-   id="tspan7636"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">CHEMICAL</tspan></textPath></text>
-      <text
-         transform="matrix(1.2524773,-0.19372401,0.19372401,1.2524773,149.05899,-130.45447)"
-         id="text7646"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7644"
-           xlink:href="#path2519"><tspan
-   id="tspan7642"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:round">BIOENGINEERING</tspan></textPath></text>
-      <text
-         transform="rotate(-166.11084,187.72124,157.06514)"
-         id="text7652"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7650"
-           xlink:href="#path3704"><tspan
-   id="tspan7648"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:round">MERRY</tspan></textPath></text>
-      <text
-         y="56.098686"
-         x="-2.3399193"
-         transform="matrix(0.78418358,-0.63120125,0.58352952,0.80551984,73.993115,49.137446)"
-         id="text7658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7656"
-           xlink:href="#path2529"><tspan
-   id="tspan7654"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round">CHRISTMAS</tspan></textPath></text>
-      <text
-         transform="rotate(-29.330631,51.836224,-12.770749)"
-         y="70.995186"
-         x="101.96365"
-         id="text7664"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7662"
-           xlink:href="#path2539"><tspan
-   id="tspan7660"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round">HAPPY</tspan></textPath></text>
-      <text
-         transform="rotate(-5.1600187,347.85717,1457.2011)"
-         id="text7670"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke:none;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#65fc7d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7668"
-           xlink:href="#path3710"><tspan
-   id="tspan7666"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#65fc7d;fill-opacity:1;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:round">NEW YEAR</tspan></textPath></text>
-    </g>
-    <g
-       style="fill:#f6e8a7;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter7626)"
-       id="g7588">
-      <text
-         transform="matrix(0.45436994,-0.91243955,0.91243955,0.45436994,23.044369,-0.36176572)"
-         id="text7550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         x="18.6064"
-         y="49.967464"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7548"
-           xlink:href="#path2544"><tspan
-   id="tspan7546"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round">INSTITUTE</tspan></textPath></text>
-      <text
-         transform="matrix(1.0346178,-0.16277184,0.16277184,1.0346178,268.07067,-246.41996)"
-         id="text7556"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7554"
-           xlink:href="#path2513"><tspan
-   id="tspan7552"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">CHEMICAL</tspan></textPath></text>
-      <text
-         transform="matrix(1.2524773,-0.19372401,0.19372401,1.2524773,149.05899,-130.45447)"
-         id="text7562"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7560"
-           xlink:href="#path2519"><tspan
-   id="tspan7558"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:round">BIOENGINEERING</tspan></textPath></text>
-      <text
-         transform="rotate(-166.11084,187.72124,157.06514)"
-         id="text7568"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7566"
-           xlink:href="#path3704"><tspan
-   id="tspan7564"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:round">MERRY</tspan></textPath></text>
-      <text
-         y="56.098686"
-         x="-2.3399193"
-         transform="matrix(0.78418358,-0.63120125,0.58352952,0.80551984,73.993115,49.137446)"
-         id="text7574"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7572"
-           xlink:href="#path2529"><tspan
-   id="tspan7570"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round">CHRISTMAS</tspan></textPath></text>
-      <text
-         transform="rotate(-29.330631,51.836224,-12.770749)"
-         y="70.995186"
-         x="101.96365"
-         id="text7580"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7578"
-           xlink:href="#path2539"><tspan
-   id="tspan7576"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round">HAPPY</tspan></textPath></text>
-      <text
-         transform="rotate(-5.1600187,347.85717,1457.2011)"
-         id="text7586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke:none;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#f6e8a7;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7584"
-           xlink:href="#path3710"><tspan
-   id="tspan7582"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6e8a7;fill-opacity:1;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:round">NEW YEAR</tspan></textPath></text>
-    </g>
-    <g
-       style="fill:#ff7e7e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter7542)"
-       id="g7464">
-      <text
-         transform="matrix(0.45436994,-0.91243955,0.91243955,0.45436994,23.044369,-0.36176572)"
-         id="text7426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         x="18.6064"
-         y="49.967464"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7424"
-           xlink:href="#path2544"><tspan
-   id="tspan7422"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round">INSTITUTE</tspan></textPath></text>
-      <text
-         transform="matrix(1.0346178,-0.16277184,0.16277184,1.0346178,268.07067,-246.41996)"
-         id="text7432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7430"
-           xlink:href="#path2513"><tspan
-   id="tspan7428"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">CHEMICAL</tspan></textPath></text>
-      <text
-         transform="matrix(1.2524773,-0.19372401,0.19372401,1.2524773,149.05899,-130.45447)"
-         id="text7438"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7436"
-           xlink:href="#path2519"><tspan
-   id="tspan7434"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:round">BIOENGINEERING</tspan></textPath></text>
-      <text
-         transform="rotate(-166.11084,187.72124,157.06514)"
-         id="text7444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7442"
-           xlink:href="#path3704"><tspan
-   id="tspan7440"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:round">MERRY</tspan></textPath></text>
-      <text
-         y="56.098686"
-         x="-2.3399193"
-         transform="matrix(0.78418358,-0.63120125,0.58352952,0.80551984,73.993115,49.137446)"
-         id="text7450"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7448"
-           xlink:href="#path2529"><tspan
-   id="tspan7446"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round">CHRISTMAS</tspan></textPath></text>
-      <text
-         transform="rotate(-29.330631,51.836224,-12.770749)"
-         y="70.995186"
-         x="101.96365"
-         id="text7456"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7454"
-           xlink:href="#path2539"><tspan
-   id="tspan7452"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round">HAPPY</tspan></textPath></text>
-      <text
-         transform="rotate(-5.1600187,347.85717,1457.2011)"
-         id="text7462"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke:none;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff7e7e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7460"
-           xlink:href="#path3710"><tspan
-   id="tspan7458"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff7e7e;fill-opacity:1;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:round">NEW YEAR</tspan></textPath></text>
-    </g>
-    <g
-       style="fill:#ff8d66;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter7918)"
-       id="g7848">
-      <text
-         transform="matrix(0.45436994,-0.91243955,0.91243955,0.45436994,23.044369,-0.36176572)"
-         id="text7810"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         x="18.6064"
-         y="49.967464"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7808"
-           xlink:href="#path2544"><tspan
-   id="tspan7806"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round">INSTITUTE</tspan></textPath></text>
-      <text
-         transform="matrix(1.0346178,-0.16277184,0.16277184,1.0346178,268.07067,-246.41996)"
-         id="text7816"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7814"
-           xlink:href="#path2513"><tspan
-   id="tspan7812"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">CHEMICAL</tspan></textPath></text>
-      <text
-         transform="matrix(1.2524773,-0.19372401,0.19372401,1.2524773,149.05899,-130.45447)"
-         id="text7822"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7820"
-           xlink:href="#path2519"><tspan
-   id="tspan7818"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26924324px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.20673108px;stroke-linecap:butt;stroke-linejoin:round">BIOENGINEERING</tspan></textPath></text>
-      <text
-         transform="rotate(-166.11084,187.72124,157.06514)"
-         id="text7828"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7826"
-           xlink:href="#path3704"><tspan
-   id="tspan7824"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.23614499px;stroke-linecap:butt;stroke-linejoin:round">MERRY</tspan></textPath></text>
-      <text
-         y="56.098686"
-         x="-2.3399193"
-         transform="matrix(0.78418358,-0.63120125,0.58352952,0.80551984,73.993115,49.137446)"
-         id="text7834"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7832"
-           xlink:href="#path2529"><tspan
-   id="tspan7830"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.472929px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.28682321px;stroke-linecap:butt;stroke-linejoin:round">CHRISTMAS</tspan></textPath></text>
-      <text
-         transform="rotate(-29.330631,51.836224,-12.770749)"
-         y="70.995186"
-         x="101.96365"
-         id="text7840"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7838"
-           xlink:href="#path2539"><tspan
-   id="tspan7836"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.03615284px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.22590381px;stroke-linecap:butt;stroke-linejoin:round">HAPPY</tspan></textPath></text>
-      <text
-         transform="rotate(-5.1600187,347.85717,1457.2011)"
-         id="text7846"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke:none;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><textPath
-           style="fill:#ff8d66;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-           id="textPath7844"
-           xlink:href="#path3710"><tspan
-   id="tspan7842"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8d66;fill-opacity:1;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:round">NEW YEAR</tspan></textPath></text>
-    </g>
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter9754)">
+    <path
+       style="opacity:0.98000004;fill:#ffd998;fill-opacity:1;fill-rule:nonzero;stroke:#fc9632;stroke-width:0.03705374;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9513)"
+       inkscape:transform-center-x="-0.32815917"
+       inkscape:transform-center-y="0.31542398"
+       d="m 114.08703,26.68977 c -0.23218,1.349294 -2.33421,1.47735 -3.29364,2.454072 -0.89035,0.90639 -0.96192,2.937344 -2.22243,3.096643 -1.32681,0.16768 -1.88336,-1.971314 -3.07669,-2.575083 -1.1963,-0.60527 -3.26531,0.221466 -3.90689,-0.955755 -0.63397,-1.163269 1.09552,-2.447105 1.29876,-3.756229 0.20344,-1.310262 -1.08309,-3.088193 -0.0988,-3.976653 0.943,-0.8512 2.52298,0.664382 3.78033,0.483031 1.42133,-0.205007 2.6214,-2.288712 3.94489,-1.731394 1.21522,0.511731 0.79097,2.529343 1.39384,3.702022 0.59766,1.162544 2.40229,1.971098 2.18063,3.259346 z"
+       id="path8714"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaaaaaaa"
+       transform="matrix(0.67271257,0,0,0.67271257,34.771161,10.482802)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="words_float 1"
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="g2164"
-       style="stroke-linecap:butt;stroke-linejoin:round">
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter9754)">
       <text
          y="49.967464"
          x="18.6064"
@@ -2548,27 +1304,6 @@
            style="stroke-linecap:butt;stroke-linejoin:round"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44579983px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffcb2;fill-opacity:1;stroke-width:0.23614497px;stroke-linecap:butt;stroke-linejoin:round"
    id="tspan2298">NEW YEAR</tspan></textPath></text>
-    </g>
-    <g
-       id="g9519"
-       transform="matrix(0.67271257,0,0,0.67271257,34.771161,10.482802)"
-       style="stroke-linecap:butt;stroke-linejoin:round;opacity:0.98">
-      <path
-         style="opacity:1;fill:#fffcb2;fill-opacity:1;fill-rule:nonzero;stroke:#fdb268;stroke-width:0.03705374;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9393)"
-         inkscape:transform-center-x="-0.32815917"
-         inkscape:transform-center-y="0.31542398"
-         d="m 114.08703,26.68977 c -0.23218,1.349294 -2.33421,1.47735 -3.29364,2.454072 -0.89035,0.90639 -0.96192,2.937344 -2.22243,3.096643 -1.32681,0.16768 -1.88336,-1.971314 -3.07669,-2.575083 -1.1963,-0.60527 -3.26531,0.221466 -3.90689,-0.955755 -0.63397,-1.163269 1.09552,-2.447105 1.29876,-3.756229 0.20344,-1.310262 -1.08309,-3.088193 -0.0988,-3.976653 0.943,-0.8512 2.52298,0.664382 3.78033,0.483031 1.42133,-0.205007 2.6214,-2.288712 3.94489,-1.731394 1.21522,0.511731 0.79097,2.529343 1.39384,3.702022 0.59766,1.162544 2.40229,1.971098 2.18063,3.259346 z"
-         id="path8999"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="aaaaaaaaaaa" />
-      <path
-         sodipodi:nodetypes="aaaaaaaaaaa"
-         inkscape:connector-curvature="0"
-         id="path8714"
-         d="m 114.08703,26.68977 c -0.23218,1.349294 -2.33421,1.47735 -3.29364,2.454072 -0.89035,0.90639 -0.96192,2.937344 -2.22243,3.096643 -1.32681,0.16768 -1.88336,-1.971314 -3.07669,-2.575083 -1.1963,-0.60527 -3.26531,0.221466 -3.90689,-0.955755 -0.63397,-1.163269 1.09552,-2.447105 1.29876,-3.756229 0.20344,-1.310262 -1.08309,-3.088193 -0.0988,-3.976653 0.943,-0.8512 2.52298,0.664382 3.78033,0.483031 1.42133,-0.205007 2.6214,-2.288712 3.94489,-1.731394 1.21522,0.511731 0.79097,2.529343 1.39384,3.702022 0.59766,1.162544 2.40229,1.971098 2.18063,3.259346 z"
-         inkscape:transform-center-y="0.31542398"
-         inkscape:transform-center-x="-0.32815917"
-         style="opacity:1;fill:#ffd998;fill-opacity:1;fill-rule:nonzero;stroke:#fc9632;stroke-width:0.03705374;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9513)" />
     </g>
   </g>
 </svg>
