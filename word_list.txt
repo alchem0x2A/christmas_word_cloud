@@ -96,3 +96,31 @@ Cooperative Assembly of Hsp70 Subdomain Clusters
 Microfluidic Approaches for the Characterization of Therapeutic Proteins
 Microfluidic Diffusion Analysis of the Size Distribution and Microrheological Properties of Antibody Solutions at High Concentrations
 Engineering Aspects of Protein Interactions and Self-assembly
+
+Design of single gold atoms on nitrogen-doped carbon for molecular recognition in alkyne semi-hydrogenation
+Techno-economic analysis of a glycerol biorefinery
+Ensemble design in nickel phosphide catalysts for alkyne semi-hydrogenation
+Hydrotalcite-derived mixed oxides for the synthesis of a key vitamin A intermediate reducing waste
+Electrocatalytic reduction of nitrogen: from Haber-Bosch to ammonia artificial leaf
+Role of carbonaceous supports and potassium promoter on higher alcohols synthesis over copper-iron catalysts
+Shedding new light on nanostructured catalysts with positron annihilation spectroscopy
+The multifaceted reactivity of single-atom heterogeneous catalysts
+Enhanced base‐free formic acid production from CO2 on Pd/g‐C3N4 by tuning of the carrier defects
+Selective ensembles in supported palladium sulfide nanoparticles for alkyne semi-hydrogenation
+A heterogeneous single-atom palladium catalyst surpassing homogeneous systems for Suzuki coupling
+Structure-performance descriptors and the role of Lewis acidity in the methanol-to-propylene process
+Single-atom heterogeneous catalysts based on distinct carbon nitride scaffolds
+Evidence of radical chemistry in catalytic methane oxybromination
+Lanthanum vanadate catalysts for selective and stable methane oxybromination
+Halogen type as a selectivity switch in catalysed alkane oxyhalogenation
+Microfabricated electrodes unravel the role of interfaces in multicomponent copper-based CO2 reduction catalysts
+Mechanism and microkinetics of methanol synthesis via CO2 hydrogenation on indium oxide
+Environmental and economical perspectives of a glycerol biorefinery
+Mechanism of ethylene oxychlorination on ceria
+Acidity effects in positron annihilation lifetime spectroscopy of zeolites
+Descriptors for high-performance nitrogen-doped carbon catalysts in acetylene hydrochlorination
+Sulfur-modified copper catalysts for the electrochemical reduction of carbon dioxide to formate
+Activated TiC-SiC composite for natural gas upgrading via catalytic oxyhalogenation
+Selective methane oxybromination over nanostructured ceria catalysts
+Carbon nanofibres-supported KCoMo catalysts for syngas conversion into higher alcohols
+Towards a green manufacture of epichlorohydrin from glycerol using hydrotalcite-derived basic oxides
