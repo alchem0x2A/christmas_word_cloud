@@ -185,7 +185,7 @@
      inkscape:cx="423.51149"
      inkscape:cy="533.51692"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="685"
@@ -235,10 +235,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0,1.1686476)"
-     sodipodi:insensitive="true">
+     transform="translate(0,1.1686476)">
     <rect
-       style="opacity:1;fill:#870000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#760000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1085"
        width="213.28851"
        height="301.43329"
@@ -509,8 +508,9 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="words"
-     style="stroke-linecap:butt;stroke-linejoin:round;opacity:0.98"
-     transform="translate(0,1.1686476)">
+     style="opacity:0.98000004;stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(0,1.1686476)"
+     sodipodi:insensitive="true">
     <g
        id="g8291"
        style="fill:#222822;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;filter:url(#filter8379)"
@@ -918,11 +918,11 @@
          id="text8217"
          y="183.42516"
          x="100.24184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479000000006px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.18272842000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.18272842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="183.42516"
            x="100.24184"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479000000006px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.18272842000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.18272842px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8215"
            sodipodi:role="line">SELF-ASSEMBLY</tspan></text>
       <text
@@ -930,11 +930,11 @@
          id="text8221"
          y="199.17787"
          x="113.12821"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835854999999956px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.35489741000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835855px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.35489741px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="199.17787"
            x="113.12821"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835854999999956px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.35489741000000002px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835855px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.35489741px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8219"
            sodipodi:role="line">SINGLE-ATOM</tspan></text>
       <text
@@ -942,11 +942,11 @@
          id="text8225"
          y="32.973183"
          x="224.43456"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835161999999995px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.24677198000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835162px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.24677198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="32.973183"
            x="224.43456"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835352999999989px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.24677198000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835353px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.24677198px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8223"
            sodipodi:role="line">SYNTHESIS</tspan></text>
       <text
@@ -954,11 +954,11 @@
          id="text8229"
          y="-9.399292"
          x="183.3399"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444000000041px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.27710964999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.27710965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="-9.399292"
            x="183.3399"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444000000041px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.27710964999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.27710965px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8227"
            sodipodi:role="line">AEROGEL</tspan></text>
       <text
@@ -966,11 +966,11 @@
          id="text8233"
          y="91.74604"
          x="120.81518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790540999999985px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22424409000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790541px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22424409px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="91.74604"
            x="120.81518"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790540999999985px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.22424409000000001px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790541px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.22424409px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8231"
            sodipodi:role="line">ANTIBODY</tspan></text>
       <text
@@ -978,22 +978,22 @@
          id="text8237"
          y="-41.395531"
          x="102.9178"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309388999999999px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22331836999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309389px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22331837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="-41.395531"
            x="102.9178"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309388999999999px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.22331836999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309389px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.22331837px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8235"
            sodipodi:role="line">BIODEGRABLE</tspan></text>
       <text
          id="text8241"
          y="71.38736"
          x="74.956879"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218000000043px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.38145690999999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.38145691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="71.38736"
            x="74.956879"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218000000043px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.38145690999999998px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.38145691px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8239"
            sodipodi:role="line">PEROVSKITE</tspan></text>
       <text
@@ -1001,11 +1001,11 @@
          id="text8245"
          y="137.49774"
          x="41.645515"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96767281999999977px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.31047954999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96767282px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.31047955px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="137.49774"
            x="41.645515"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62356376999999963px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.31047954999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62356377px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.31047955px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8243"
            sodipodi:role="line">COLLOIDAL</tspan></text>
       <text
@@ -1013,45 +1013,45 @@
          id="text8249"
          y="90.906342"
          x="116.45123"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10993624000000013px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.19437101000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10993624px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.19437101px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="90.906342"
            x="116.45123"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.19437101000000001px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.19437101px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8247"
            sodipodi:role="line">CLUSTER</tspan></text>
       <text
          id="text8253"
          y="193.85187"
          x="144.18956"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.60315180000000002px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22519699000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6031518px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.22519699px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="193.85187"
            x="144.18956"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.22519699000000001px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.22519699px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8251"
            sodipodi:role="line">MICROSPHERE</tspan></text>
       <text
          id="text8257"
          y="214.19199"
          x="34.836483"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65937995999999988px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.35371124999999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65937996px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.35371125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
          transform="rotate(-4.919973)"><tspan
            y="214.19199"
            x="34.836483"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.35371124999999998px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.35371125px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8255"
            sodipodi:role="line">HETEROSTRUCTURE</tspan></text>
       <text
          id="text8261"
          y="102.18244"
          x="82.512535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84340143000000012px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.30271259000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84340143px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.30271259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="102.18244"
            x="82.512535"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.30271259000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.30271259px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8259"
            sodipodi:role="line">IR</tspan></text>
       <text
@@ -1059,88 +1059,88 @@
          id="text8265"
          y="60.471508"
          x="99.808807"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78305292000000026px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.42394081000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78305292px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.42394081px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="60.471508"
            x="99.808807"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.42394081000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.42394081px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan8263"
            sodipodi:role="line">NANO</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36317730000000026px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.27269858000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3631773px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.27269858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="95.207817"
          y="140.60112"
          id="text8269"
          transform="rotate(10.522013)"><tspan
            sodipodi:role="line"
            id="tspan8267"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36317730000000026px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.27269858000000002px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3631773px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.27269858px;stroke-linecap:butt;stroke-linejoin:round"
            x="95.207817"
            y="140.60112">CARBON</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32628440999999997px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.20789278000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32628441px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.20789278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="174.83461"
          y="138.25327"
          id="text8273"
          transform="rotate(14.998845)"><tspan
            sodipodi:role="line"
            id="tspan8271"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.20789278000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.20789278px;stroke-linecap:butt;stroke-linejoin:round"
            x="174.83461"
            y="138.25327">CONVERSION</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689000000010px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.51370417999999995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.51370418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="83.013023"
          y="64.388832"
          id="text8277"
          transform="rotate(10.224373)"><tspan
            sodipodi:role="line"
            id="tspan8275"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689000000010px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.51370417999999995px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.51370418px;stroke-linecap:butt;stroke-linejoin:round"
            x="83.013023"
            y="64.388832">ACID</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469000000032px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.33212289000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.33212289px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="135.92299"
          y="172.03123"
          id="text8281"><tspan
            sodipodi:role="line"
            id="tspan8279"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469000000032px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.33212289000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.33212289px;stroke-linecap:butt;stroke-linejoin:round"
            x="135.92299"
            y="172.03123">FLOW</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61644840000000034px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.28852802999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6164484px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.28852803px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="110.22113"
          y="180.53264"
          id="text8285"
          transform="rotate(3.8395666)"><tspan
            sodipodi:role="line"
            id="tspan8283"
-           style="fill:#222822;fill-opacity:1;stroke-width:0.28852802999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#222822;fill-opacity:1;stroke-width:0.28852803px;stroke-linecap:butt;stroke-linejoin:round"
            x="110.22113"
            y="180.53264">ORGANIC</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197000000016px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.28292114000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke:none;stroke-width:0.28292114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="60.307159"
          y="109.89644"
          id="text8289"
          transform="rotate(-21.163286)"><tspan
            sodipodi:role="line"
            id="tspan8287"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197000000016px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.28292114000000002px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#222822;fill-opacity:1;stroke-width:0.28292114px;stroke-linecap:butt;stroke-linejoin:round"
            x="60.307159"
            y="109.89644">LIGNIN</tspan></text>
     </g>
     <g
        id="g8057"
-       style="">
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          transform="matrix(0.33546043,-0.07713714,0.07713714,0.33546043,42.029408,-8.4394791)"
          style="fill:#008000;stroke-linecap:butt;stroke-linejoin:round"
@@ -1541,155 +1541,155 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479000000006px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.18272842000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.18272842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="100.24184"
          y="183.42516"
          id="text1000"
          transform="matrix(0.98642696,0.12885961,-0.10151115,1.0004991,0,0)"><tspan
            sodipodi:role="line"
            id="tspan998"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479000000006px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;stroke-width:0.18272842000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92365479px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;stroke-width:0.18272842px;stroke-linecap:butt;stroke-linejoin:round"
            x="100.24184"
            y="183.42516">SELF-ASSEMBLY</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835854999999956px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008033;fill-opacity:1;stroke:none;stroke-width:0.35489741000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835855px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008033;fill-opacity:1;stroke:none;stroke-width:0.35489741px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="113.12821"
          y="199.17787"
          id="text1004"
          transform="rotate(-9.1454507)"><tspan
            sodipodi:role="line"
            id="tspan1002"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835854999999956px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008033;stroke-width:0.35489741000000002px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.67835855px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008033;stroke-width:0.35489741px;stroke-linecap:butt;stroke-linejoin:round"
            x="113.12821"
            y="199.17787">SINGLE-ATOM</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835161999999995px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.24677198000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835162px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.24677198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="224.43456"
          y="32.973183"
          id="text1008"
          transform="rotate(46.282925)"><tspan
            sodipodi:role="line"
            id="tspan1006"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835352999999989px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.24677198000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94835353px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.24677198px;stroke-linecap:butt;stroke-linejoin:round"
            x="224.43456"
            y="32.973183">SYNTHESIS</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444000000041px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.27710964999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.27710965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="183.3399"
          y="-9.399292"
          id="text1006"
          transform="rotate(43.452065)"><tspan
            sodipodi:role="line"
            id="tspan1004"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444000000041px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.27710964999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43375444px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.27710965px;stroke-linecap:butt;stroke-linejoin:round"
            x="183.3399"
            y="-9.399292">AEROGEL</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790540999999985px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.22424409000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790541px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.22424409px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="120.81518"
          y="91.74604"
          id="text1010"
          transform="rotate(-2.114233)"><tspan
            sodipodi:role="line"
            id="tspan1008"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790540999999985px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.22424409000000001px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.58790541px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.22424409px;stroke-linecap:butt;stroke-linejoin:round"
            x="120.81518"
            y="91.74604">ANTIBODY</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309388999999999px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#afe9af;fill-opacity:1;stroke:none;stroke-width:0.22331836999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309389px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#afe9af;fill-opacity:1;stroke:none;stroke-width:0.22331837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="102.9178"
          y="-41.395531"
          id="text1014"
          transform="rotate(42.849277)"><tspan
            sodipodi:role="line"
            id="tspan1012"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309388999999999px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#afe9af;stroke-width:0.22331836999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.57309389px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#afe9af;stroke-width:0.22331837px;stroke-linecap:butt;stroke-linejoin:round"
            x="102.9178"
            y="-41.395531">BIODEGRABLE</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218000000043px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.38145690999999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.38145691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="74.956879"
          y="71.38736"
          id="text1018"><tspan
            sodipodi:role="line"
            id="tspan1016"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218000000043px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.38145690999999998px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10343218px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#88aa00;stroke-width:0.38145691px;stroke-linecap:butt;stroke-linejoin:round"
            x="74.956879"
            y="71.38736">PEROVSKITE</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96767281999999977px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.31047954999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96767282px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.31047955px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="41.645515"
          y="137.49774"
          id="text1023"
          transform="rotate(-24.872904)"><tspan
            sodipodi:role="line"
            id="tspan1021"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62356376999999963px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.31047954999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62356377px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.31047955px;stroke-linecap:butt;stroke-linejoin:round"
            x="41.645515"
            y="137.49774">COLLOIDAL</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10993624000000013px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.19437101000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10993624px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.19437101px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="116.45123"
          y="90.906342"
          id="text1033"
          transform="rotate(7.3021962)"><tspan
            sodipodi:role="line"
            id="tspan1031"
-           style="fill:#008000;stroke-width:0.19437101000000001px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#008000;stroke-width:0.19437101px;stroke-linecap:butt;stroke-linejoin:round"
            x="116.45123"
            y="90.906342">CLUSTER</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.60315180000000002px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.22519699000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6031518px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.22519699px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="144.18956"
          y="193.85187"
          id="text1037"><tspan
            sodipodi:role="line"
            id="tspan1035"
-           style="fill:#668000;stroke-width:0.22519699000000001px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#668000;stroke-width:0.22519699px;stroke-linecap:butt;stroke-linejoin:round"
            x="144.18956"
            y="193.85187">MICROSPHERE</tspan></text>
       <text
          transform="rotate(-4.919973)"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65937995999999988px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.35371124999999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65937996px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.35371125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="34.836483"
          y="214.19199"
          id="text1041"><tspan
            sodipodi:role="line"
            id="tspan1039"
-           style="fill:#44aa00;stroke-width:0.35371124999999998px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#44aa00;stroke-width:0.35371125px;stroke-linecap:butt;stroke-linejoin:round"
            x="34.836483"
            y="214.19199">HETEROSTRUCTURE</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84340143000000012px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.30271259000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84340143px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.30271259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="82.512535"
          y="102.18244"
          id="text1045"><tspan
            sodipodi:role="line"
            id="tspan1043"
-           style="fill:#008000;stroke-width:0.30271259000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#008000;stroke-width:0.30271259px;stroke-linecap:butt;stroke-linejoin:round"
            x="82.512535"
            y="102.18244">IR</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78305292000000026px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.42394081000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78305292px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.42394081px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="99.808807"
          y="60.471508"
          id="text1049"
          transform="rotate(20.162691)"><tspan
            sodipodi:role="line"
            id="tspan1047"
-           style="fill:#668000;stroke-width:0.42394081000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#668000;stroke-width:0.42394081px;stroke-linecap:butt;stroke-linejoin:round"
            x="99.808807"
            y="60.471508">NANO</tspan></text>
       <text
@@ -1697,11 +1697,11 @@
          id="text1364"
          y="140.60112"
          x="95.207817"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36317730000000026px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.27269858000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3631773px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.27269858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="140.60112"
            x="95.207817"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36317730000000026px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.27269858000000002px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3631773px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.27269858px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan1362"
            sodipodi:role="line">CARBON</tspan></text>
       <text
@@ -1709,11 +1709,11 @@
          id="text1368"
          y="138.25327"
          x="174.83461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32628440999999997px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.20789278000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32628441px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.20789278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="138.25327"
            x="174.83461"
-           style="fill:#008000;stroke-width:0.20789278000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#008000;stroke-width:0.20789278px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan1366"
            sodipodi:role="line">CONVERSION</tspan></text>
       <text
@@ -1721,22 +1721,22 @@
          id="text1372"
          y="64.388832"
          x="83.013023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689000000010px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.51370417999999995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.51370418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="64.388832"
            x="83.013023"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689000000010px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.51370417999999995px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21926689px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.51370418px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan1370"
            sodipodi:role="line">ACID</tspan></text>
       <text
          id="text1376"
          y="172.03123"
          x="135.92299"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469000000032px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.33212289000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.33212289px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="172.03123"
            x="135.92299"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469000000032px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.33212289000000000px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.31385469px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.33212289px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan1374"
            sodipodi:role="line">FLOW</tspan></text>
       <text
@@ -1744,11 +1744,11 @@
          id="text1380"
          y="180.53264"
          x="110.22113"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61644840000000034px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.28852802999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6164484px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.28852803px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="180.53264"
            x="110.22113"
-           style="fill:#668000;stroke-width:0.28852802999999999px;stroke-linecap:butt;stroke-linejoin:round"
+           style="fill:#668000;stroke-width:0.28852803px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan1378"
            sodipodi:role="line">ORGANIC</tspan></text>
       <text
@@ -1756,11 +1756,11 @@
          id="text1384"
          y="109.89644"
          x="60.307159"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197000000016px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.28292114000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.28292114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="109.89644"
            x="60.307159"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197000000016px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.28292114000000002px;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52673197px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#668000;stroke-width:0.28292114px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan1382"
            sodipodi:role="line">LIGNIN</tspan></text>
     </g>
@@ -1787,133 +1787,134 @@
     </g>
     <g
        id="g8457"
-       style="fill:#6b6b6b;fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1;filter:url(#filter8691);opacity:0.256">
+       style="opacity:0.25600011;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8691)">
       <g
          id="g8411"
-         style="fill:#6b6b6b;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-width:10.87466046;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:10.87466049;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.17772482,0.0473093,-0.0473093,0.17772482,110.01993,140.37899)">
         <text
-           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-width:10.87466046;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:16px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:10.87466049;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="95.440002"
            y="517.20001"
            id="text8409">MORDENITE</text>
       </g>
       <g
          id="g8415"
-         style="fill:#6b6b6b;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-width:5.41301967;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.3547024,0.10344726,-0.10344726,0.3547024,117.49995,51.139423)">
         <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-width:5.41301967;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="95.440002"
            y="461.20001"
            id="text8413">HALIDE</text>
       </g>
       <g
          id="g8419"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:6.43879343;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.43879366;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.29587681,-0.09455136,0.09455136,0.29587681,10.384456,174.47829)">
         <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:6.43879343;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.43879366;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="95.440002"
            y="293.20001"
            id="text8417">POROUS</text>
       </g>
       <g
          id="g8423"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:6.92781541;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.92781544;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.28020673,-0.06947555,0.06947555,0.28020673,-2.9942549,123.35289)">
         <text
-           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:6.92781541;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:20px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:6.92781544;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="151.44"
            y="461.20001"
            id="text8421">TOMOGRAPHY</text>
       </g>
       <g
          id="g8427"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.75019179;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.75019169;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.12717492,0.32373053,-0.32373053,0.12717492,267.07895,87.41323)">
         <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.75019179;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.75019169;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="207.44"
            y="517.20001"
            id="text8425">KINETICS</text>
       </g>
       <g
          id="g8431"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:4.18045913;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:4.18045902;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.40964844,-0.23198979,0.23957978,0.4230509,-147.23291,74.176435)"
          inkscape:transform-center-x="-53.577458"
          inkscape:transform-center-y="-22.048127">
         <text
-           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:4.18045913;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:18px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:4.18045902;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="263.44"
            y="517.20001"
            id="text8429">2D</text>
       </g>
       <g
          id="g8435"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301977;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.36947953,0,0,0.36947953,13.998915,85.669155)">
         <text
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301977;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="263.44"
            y="405.20001"
            id="text8433">HEDP</text>
       </g>
       <g
          id="g8439"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301967;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.11303109,-0.35176569,0.35176569,0.11303109,-74.685099,291.22765)">
         <text
-           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301967;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:19px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="263.44"
            y="349.20001"
            id="text8437">TEXTILE</text>
       </g>
       <g
          id="g8443"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301977;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.36947953,0,0,0.36947953,-33.565967,58.986416)">
         <text
-           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301977;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:14px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="319.44"
            y="517.20001"
            id="text8441">OXIDATION</text>
       </g>
       <g
          id="g8447"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:5.41301977;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.36947953,0,0,0.36947953,154.37326,7.9411773)">
         <text
            transform="rotate(14.407881)"
-           style="font-style:normal;font-weight:500;font-size:15.20129204000000023px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-width:5.41301977;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:15.20129204px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:5.41301966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="9.959733"
            y="649.16235"
            id="text8445">HYDROGENATION</text>
       </g>
       <g
          id="g8451"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:3.30948693;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:3.30948687;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.59923848,0.07822961,-0.07822961,0.59923848,-124.65656,75.366013)">
         <text
-           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:3.30948693;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:13px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:3.30948687;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="375.44"
            y="181.2"
            id="text8449">MECHANISM</text>
       </g>
       <g
          id="g8455"
-         style="fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:7.07194431;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+         style="fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:7.07194424;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.24300584,0.14466628,-0.14466628,0.24300584,38.911004,55.691097)">
         <text
-           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke-width:7.07194431;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4d2600;stroke-opacity:1"
+           style="font-style:normal;font-weight:500;font-size:12px;font-family:'Varela Round';text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:#4d2600;stroke-width:7.07194424;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="431.44"
            y="405.20001"
            id="text8453">BIOCHEMICAL</text>
       </g>
     </g>
     <g
-       id="g8407">
+       id="g8407"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          transform="matrix(0.17772482,0.0473093,-0.0473093,0.17772482,110.01993,140.37899)"
          style="fill:#dea75d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
@@ -2014,7 +2015,7 @@
            id="text1534"
            y="649.16235"
            x="9.959733"
-           style="font-style:normal;font-weight:500;font-size:15.20129204000000023px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-width:0.80006802;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-weight:500;font-size:15.20129204px;font-family:'Varela Round';text-anchor:start;fill:#ff9955;stroke-width:0.80006802;stroke-linecap:butt;stroke-linejoin:round"
            transform="rotate(14.407881)">HYDROGENATION</text>
       </g>
       <g
@@ -2042,24 +2043,24 @@
        id="text2280"
        y="119.21773"
        x="49.291653"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311000000023px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="122.97463"
          x="49.291653"
-         style="stroke-width:0.26458332000000001px;stroke-linecap:butt;stroke-linejoin:round"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan2278"
          sodipodi:role="line" /></text>
     <text
        y="-71.013962"
        x="-62.293102"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285663999999883px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19632141000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;line-height:125%;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text1046"
        transform="rotate(-153.52795)"><textPath
          xlink:href="#path2544"
          id="textPath1043"
-         style="fill:#ffffff;stroke-width:0.19632141000000000px;stroke-linecap:butt;stroke-linejoin:round"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285663999999883px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.19632141000000000px;stroke-linecap:butt;stroke-linejoin:round"
+         style="fill:#ffffff;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85285664px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.19632141px;stroke-linecap:butt;stroke-linejoin:round"
    id="tspan1041">INSTITUTE</tspan></textPath></text>
   </g>
   <g
